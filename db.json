@@ -1,0 +1,32 @@
+{
+    "empresas-egresades": [
+        {
+            "id": 1,
+            "nombre": "Marcela Perez Quiroga",
+            "nodo": "Caba",
+            "NivelIngles": "Basico",
+            "ModulosCursados": [
+                {
+                    "id": 1,
+                    "nombre": "Testing Funcional"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Intro a la progra"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Melissa Juana Medina",
+            "nodo": "Santa Fé",
+            "NivelIngles": "Medio",
+            "ModulosCursados": [
+                {
+                    "id": 1,
+                    "nombre": "Intro a la progra"
+                }
+            ]
+        }
+    ]
+}
