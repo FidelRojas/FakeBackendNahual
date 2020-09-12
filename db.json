@@ -21,7 +21,7 @@
                     "year": "2018"
                 }
             ],
-            "Linkedin": "https://www.linkedin.com/MarcelaPerez"
+            "Linkedin": "/MarcelaPerez"
         },
         {
             "id": 2,
@@ -40,7 +40,7 @@
                     "year": "2018"
                 }
             ],
-            "Linkedin": "https://www.linkedin.com/JuanAntonio"
+            "Linkedin": "/JuanAntonio"
         },
         {
             "id": 3,
@@ -81,7 +81,7 @@
                     "year": "2018"
                 }
             ],
-            "Linkedin": "https://www.linkedin.com/AlejandraSamudio"
+            "Linkedin": "/AlejandraSamudio"
         }
         
     ]
