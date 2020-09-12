@@ -12,12 +12,12 @@
             "moduleCompleted": [
                 {
                     "id": 1,
-                    "name": "Testing Funcional",
+                    "course": "Testing Funcional",
                     "year": "2017"
                 },
                 {
                     "id": 2,
-                    "name": "Introduccion a la programacion",
+                    "course": "Introduccion a la programacion",
                     "year": "2018"
                 }
             ],
