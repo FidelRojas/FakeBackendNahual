@@ -2,31 +2,87 @@
     "empresas-egresades": [
         {
             "id": 1,
-            "nombre": "Marcela Perez Quiroga",
-            "nodo": "Caba",
-            "NivelIngles": "Basico",
-            "ModulosCursados": [
+            "name": "Marcela Perez Quiroga",
+            "email": "MarcelaPerezQuiroga@email.com",
+            "dateOfBirth": "23/08/96",
+            "phone": "7230896",
+            "englishLevel": "Basico",
+            "nodo": "CABA",
+            "campus": "Intive",
+            "moduleCompleted": [
                 {
                     "id": 1,
-                    "nombre": "Testing Funcional"
+                    "name": "Testing Funcional",
+                    "year": "2017"
                 },
                 {
                     "id": 2,
-                    "nombre": "Intro a la progra"
+                    "name": "Introduccion a la programacion",
+                    "year": "2018"
                 }
-            ]
+            ],
+            "Linkedin": "https://www.linkedin.com/MarcelaPerez"
         },
         {
             "id": 2,
-            "nombre": "Melissa Juana Medina",
-            "nodo": "Santa Fé",
-            "NivelIngles": "Medio",
-            "ModulosCursados": [
+            "name": "Juan Antonio Perez",
+            "email": "JuanAntonioPerez@email.com",
+            "dateOfBirth": "2/11/94",
+            "phone": "721194",
+            "englishLevel": "Intermedio",
+            "nodo": "CABA",
+            "campus": "Intive",
+
+            "moduleCompleted": [
                 {
                     "id": 1,
-                    "nombre": "Intro a la progra"
+                    "course": "Testing Funcional",
+                    "year": "2018"
                 }
-            ]
+            ],
+            "Linkedin": "https://www.linkedin.com/JuanAntonio"
+        },
+        {
+            "id": 3,
+            "name": "Luis Mejia",
+            "email": "LuisMejia@email.com",
+            "dateOfBirth": "30/1/95",
+            "phone": "730195",
+            "englishLevel": "Avanzado",
+            "nodo": "Santa Fe",
+            "campus": "Maximo Paz",
+            "moduleCompleted": [
+                {
+                    "id": 1,
+                    "course": "Testing Funcional",
+                    "year": "2018"
+                },
+                {
+                    "id": 2,
+                    "course": "Introduccion a la Programacion",
+                    "year": "2019"
+                }
+            ],
+            "Linkedin": "https://www.linkedin.com/Luis_Mejia"
+        },
+        {
+            "id": 4,
+            "name": "Alejandra Samudio",
+            "email": "AlejandraSamudioz@email.com",
+            "dateOfBirth": "12/10/94",
+            "phone": "6121094",
+            "englishLevel": "Avanzado",
+            "nodo": "Ituzaingó",
+            "campus": "Ituzaingó",
+            "moduleCompleted": [
+                {
+                    "id": 1,
+                    "course": "Alfabetización Digital",
+                    "year": "2018"
+                }
+            ],
+            "Linkedin": "https://www.linkedin.com/AlejandraSamudio"
         }
+        
     ]
 }
