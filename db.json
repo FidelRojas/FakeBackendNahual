@@ -145,24 +145,22 @@
             ]
         }
     },
-    "students": {
-        "1": [
-            {
-                "id": 1,
-                "fullName": "clodomiro saavedra perez",
-                "statusName": "Egresade",
-                "birthDate": "1995-02-02T00:00:00.000Z",
-                "mail": "clodo.saavedra@gmail.com",
-                "cellphone": 79840584,
-                "nodeName": "CABA",
-                "graduationYear": 2019,
-                "quarter": 1,
-                "englishLevel": "Basico",
-                "firstJobName": "Tsoft",
-                "linkedin": "https://linkedin/clodomiro",
-                "isEmployed": false,
-                "module": "Testing funcional"
-            }
-        ]
-    }
+    "students/1": [
+        {
+            "id": 1,
+            "fullName": "clodomiro saavedra perez",
+            "statusName": "Egresade",
+            "birthDate": "1995-02-02T00:00:00.000Z",
+            "mail": "clodo.saavedra@gmail.com",
+            "cellphone": 79840584,
+            "nodeName": "CABA",
+            "graduationYear": 2019,
+            "quarter": 1,
+            "englishLevel": "Basico",
+            "firstJobName": "Tsoft",
+            "linkedin": "https://linkedin/clodomiro",
+            "isEmployed": false,
+            "module": "Testing funcional"
+        }
+    ]
 }
